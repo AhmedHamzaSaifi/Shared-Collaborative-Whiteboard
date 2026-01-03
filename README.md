@@ -6,12 +6,12 @@
 
 Built with modern web technologies, this platform allows teams to brainstorm, plan, and visualize ideas together seamlessly across multiple projects.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://shared-collaborative-whiteboard.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://shared-collaborative-whiteboard.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-15.1-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
-[Live Demo](https://shared-collaborative-whiteboard.vercel.app) · [Report Bug](https://github.com/AhmedHamzaSaifi/Shared-Collaborative-Whiteboard/issues) · [Request Feature](https://github.com/AhmedHamzaSaifi/Shared-Collaborative-Whiteboard/issues)
+
+[Live Demo](https://shared-collaborative-whiteboard.vercel.app/) · 
 
 </div>
 
