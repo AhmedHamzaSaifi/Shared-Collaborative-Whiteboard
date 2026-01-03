@@ -311,11 +311,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** .
 
-```
-MIT License - you are free to use, modify, and distribute this software.
-```
+
 
 ---
 
